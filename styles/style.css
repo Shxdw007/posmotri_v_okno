@@ -73,6 +73,7 @@ video {
   position: relative;
   inline-size: 711px;
   margin: 0 0 11px;
+  height: 386px;
 }
 
 .search-form {
@@ -233,7 +234,7 @@ video {
   scrollbar-width: none;
 }
 
-/
+
 .content__list::-webkit-scrollbar {
   display: none;
 }
